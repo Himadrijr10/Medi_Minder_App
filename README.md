@@ -55,19 +55,3 @@ flutter pub get
 ```sh
 flutter run
 ```
-
-## Project Tutorial
-
-Follow this video tutorial series: [YouTube Playlist](https://youtube.com/playlist?list=PLSF1ka2Z0Hrs8pWzv8lqJ3E_BgNWw9BlV\&si=GRdJ6FwY716J_Tpf)
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-MIT License
-
----
-
-Feel free to modify and improve the app!
